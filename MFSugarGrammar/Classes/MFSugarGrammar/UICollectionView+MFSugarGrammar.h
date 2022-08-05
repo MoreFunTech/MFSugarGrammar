@@ -2,7 +2,7 @@
 //  UICollectionView+MFSugarGrammar.h
 //  Expecta
 //
-//  Created by Administer on 2022/8/5.
+//  Created by Neal Wills on 2022/8/5.
 //
 
 #import <UIKit/UIKit.h>
