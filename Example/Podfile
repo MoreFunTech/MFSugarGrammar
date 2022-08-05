@@ -3,7 +3,11 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'MFSugarGrammar_Example' do
+  
   pod 'MFSugarGrammar', :path => '../'
+  
+  pod 'Masonry'
+  pod 'SDAutoLayout'
 
   target 'MFSugarGrammar_Tests' do
     inherit! :search_paths

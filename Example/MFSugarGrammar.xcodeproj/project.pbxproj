@@ -350,10 +350,14 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-MFSugarGrammar_Example/Pods-MFSugarGrammar_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/MFSugarGrammar/MFSugarGrammar.framework",
+				"${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework",
+				"${BUILT_PRODUCTS_DIR}/SDAutoLayout/SDAutoLayout.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MFSugarGrammar.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Masonry.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SDAutoLayout.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

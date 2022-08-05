@@ -1,0 +1,6 @@
+framework module MFSugarGrammar {
+  umbrella header "MFSugarGrammar-umbrella.h"
+
+  export *
+  module * { export * }
+}
