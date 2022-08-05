@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		299063E65E5D68AB50BD7054 /* FrameTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2990609F9B8EDEB6D9A3691C /* FrameTests.m */; };
 		2E5D76DF9E617E679EA27947 /* Pods_MFSugarGrammar_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C603AF9DE3A3F38EACABE734 /* Pods_MFSugarGrammar_Example.framework */; };
 		6003F58E195388D20070C39A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58D195388D20070C39A /* Foundation.framework */; };
 		6003F590195388D20070C39A /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6003F58F195388D20070C39A /* CoreGraphics.framework */; };
@@ -38,6 +39,7 @@
 
 /* Begin PBXFileReference section */
 		0B48428DCB4D2C5810AFD834 /* Pods-MFSugarGrammar_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MFSugarGrammar_Example.release.xcconfig"; path = "Target Support Files/Pods-MFSugarGrammar_Example/Pods-MFSugarGrammar_Example.release.xcconfig"; sourceTree = "<group>"; };
+		2990609F9B8EDEB6D9A3691C /* FrameTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrameTests.m; sourceTree = "<group>"; };
 		2AB9B7EBC8013BF2ECB95A8A /* MFSugarGrammar.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MFSugarGrammar.podspec; path = ../MFSugarGrammar.podspec; sourceTree = "<group>"; };
 		3627EB02F2FEA1E5EFECB071 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		43545815700927DCA7454420 /* Pods_MFSugarGrammar_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MFSugarGrammar_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -161,6 +163,7 @@
 			children = (
 				6003F5BB195388D20070C39A /* Tests.m */,
 				6003F5B6195388D20070C39A /* Supporting Files */,
+				2990609F9B8EDEB6D9A3691C /* FrameTests.m */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -396,6 +399,7 @@
 				6003F59E195388D20070C39A /* MFAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* MFViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
+				299063E65E5D68AB50BD7054 /* FrameTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
