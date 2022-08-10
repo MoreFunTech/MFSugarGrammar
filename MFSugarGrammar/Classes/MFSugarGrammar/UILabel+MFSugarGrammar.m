@@ -6,6 +6,7 @@
 //
 
 #import "UILabel+MFSugarGrammar.h"
+#import "UIView+MFSugarGrammarBase.h"
 
 @implementation UILabel (MFSugarGrammar)
 

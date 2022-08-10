@@ -6,6 +6,7 @@
 //
 
 #import "UICollectionView+MFSugarGrammar.h"
+#import "UIView+MFSugarGrammarBase.h"
 
 @implementation UICollectionView (MFSugarGrammar)
 

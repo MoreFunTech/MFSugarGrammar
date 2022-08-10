@@ -6,6 +6,7 @@
 //
 
 #import "UIColor+MFSugarGrammar.h"
+#import "UIView+MFSugarGrammarBase.h"
 
 @implementation UIColor (MFSugarGrammar)
 

@@ -18,5 +18,6 @@
   "platforms": {
     "ios": "10.0"
   },
-  "source_files": "MFSugarGrammar/Classes/**/*"
+  "source_files": "MFSugarGrammar/Classes/**/*",
+  "frameworks": "UIKit"
 }

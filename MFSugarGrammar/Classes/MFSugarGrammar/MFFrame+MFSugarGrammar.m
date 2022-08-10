@@ -62,7 +62,7 @@
     };
 }
 
-+ (CGRect(^)(CGFloat x, CGFloat y, CGFloat width, CGFloat height))initXYWidthHeight {
++ (CGRect(^)(CGFloat x, CGFloat y, CGFloat width, CGFloat height))initWithXYWidthHeight {
     return ^CGRect(CGFloat x, CGFloat y, CGFloat width, CGFloat height) {
         return CGRectMake(x, y, width, height);
     };

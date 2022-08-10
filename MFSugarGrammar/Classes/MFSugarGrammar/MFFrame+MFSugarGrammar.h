@@ -75,7 +75,7 @@
  * MFRect.init(x, y, width, height)
  * @return 使用 x, y, width, height 构建的rect
  */
-+ (CGRect(^)(CGFloat x, CGFloat y, CGFloat width, CGFloat height))initXYWidthHeight;
++ (CGRect(^)(CGFloat x, CGFloat y, CGFloat width, CGFloat height))initWithXYWidthHeight;
 
 /**
  * rect构建

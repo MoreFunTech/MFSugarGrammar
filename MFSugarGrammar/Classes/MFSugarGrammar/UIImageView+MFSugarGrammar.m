@@ -6,6 +6,7 @@
 //
 
 #import "UIImageView+MFSugarGrammar.h"
+#import "UIView+MFSugarGrammarBase.h"
 
 @implementation UIImageView (MFSugarGrammar)
 

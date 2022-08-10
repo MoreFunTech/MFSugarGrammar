@@ -6,6 +6,7 @@
 //
 
 #import "UISwitch+MFSugarGrammar.h"
+#import "UIView+MFSugarGrammarBase.h"
 
 @implementation UISwitch (MFSugarGrammar)
 
